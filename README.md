@@ -1,10 +1,3 @@
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=a98bc3&height=130&section=header"
-    width="100%"
-  />
-</div>
-
 # 🌿 Somin's GitHub
 
 > Backend Developer | Java & Spring Boot
