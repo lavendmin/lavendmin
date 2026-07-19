@@ -1,9 +1,13 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=a98bc3&height=120&section=header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=a98bc3&height=130&section=header"
     width="100%"
   />
 </div>
+
+# 🌿 Somin's GitHub
+
+> Backend Developer | Java & Spring Boot
 
 ## 🛠 Tech Stacks
 
@@ -26,7 +30,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### Experienced
+### Project Experience
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -37,4 +41,5 @@
 </p>
 
 ## 🏅 Stats
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=somin263)](https://solved.ac/somin263)
