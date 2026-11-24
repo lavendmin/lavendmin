@@ -35,4 +35,4 @@
 
 ## 🏅 Stats
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=somin263)](https://solved.ac/lavendmin)
+[![Solved.ac프로필](https://mazassumnida.wtf/api/v2/generate_badge?handle=lavendmin)](https://solved.ac/lavendmin)
